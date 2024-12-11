@@ -4,3 +4,6 @@
 # But don't ignore the following files or folders:
 !.gitignore
 !README.md
+!config.cfg
+!custom/
+!custom/scripts.cfg
