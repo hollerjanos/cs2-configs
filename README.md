@@ -1,6 +1,10 @@
 # Counter-Strike: 2 - Configurations
 
-## Cloning the repository:
+## Introduction
+
+- This is my current configurations for Counter-Strike: 2.
+
+## How to clone the repository
 
 - Go inside the following folder:
 
@@ -13,3 +17,5 @@ git init
 git remote add origin git@github.com:hollerjanos/cs2-configs.git
 git pull origin master
 ```
+
+- This way you are not going to create a folder when cloning the repository.
